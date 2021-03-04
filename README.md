@@ -1,4 +1,4 @@
-# qq-muics-demo
+# hello-world
 
 ## Project setup
 ```
